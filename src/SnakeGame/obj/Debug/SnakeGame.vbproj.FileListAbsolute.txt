@@ -1,0 +1,13 @@
+C:\Users\pablo.facciano\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.vbproj.AssemblyReference.cache
+C:\Users\pablo.facciano\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.vbproj.SuggestedBindingRedirects.cache
+C:\Users\pablo.facciano\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.FrmGame.resources
+C:\Users\pablo.facciano\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Resources.resources
+C:\Users\pablo.facciano\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.vbproj.GenerateResource.cache
+C:\Users\pablo.facciano\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.vbproj.CoreCompileInputs.cache
+C:\Users\pablo.facciano\source\repos\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
+C:\Users\pablo.facciano\source\repos\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+C:\Users\pablo.facciano\source\repos\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+C:\Users\pablo.facciano\source\repos\SnakeGame\SnakeGame\bin\Debug\SnakeGame.xml
+C:\Users\pablo.facciano\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+C:\Users\pablo.facciano\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.xml
+C:\Users\pablo.facciano\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
